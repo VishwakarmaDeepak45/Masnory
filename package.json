@@ -9,7 +9,7 @@
   "dependencies": {
     "eslint": "^6.6.0",
     "react": "16.6.3",
-    "react-native": "0.58.6",
+    "react-native": "0.70.2",
     "react-native-masonry-list": "^2.13.0"
   },
   "devDependencies": {
